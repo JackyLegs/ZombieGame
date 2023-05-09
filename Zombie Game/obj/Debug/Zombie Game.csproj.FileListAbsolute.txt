@@ -1,0 +1,21 @@
+D:\Games\Zombie Game\bin\Debug\Zombie Game.exe.config
+D:\Games\Zombie Game\bin\Debug\Zombie Game.exe
+D:\Games\Zombie Game\bin\Debug\Zombie Game.pdb
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.AssemblyReference.cache
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.SuggestedBindingRedirects.cache
+D:\Games\Zombie Game\obj\Debug\Zombie_Game.ZombieGame.resources
+D:\Games\Zombie Game\obj\Debug\Zombie_Game.Properties.Resources.resources
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.GenerateResource.cache
+D:\Games\Zombie Game\obj\Debug\Zombie Game.csproj.CoreCompileInputs.cache
+D:\Games\Zombie Game\obj\Debug\Zombie Game.exe
+D:\Games\Zombie Game\obj\Debug\Zombie Game.pdb
+C:\Users\JackyLegs\Desktop\Zombie Game\bin\Debug\Zombie Game.exe.config
+C:\Users\JackyLegs\Desktop\Zombie Game\bin\Debug\Zombie Game.exe
+C:\Users\JackyLegs\Desktop\Zombie Game\bin\Debug\Zombie Game.pdb
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie Game.csproj.AssemblyReference.cache
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie_Game.ZombieGame.resources
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie_Game.Properties.Resources.resources
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie Game.csproj.GenerateResource.cache
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie Game.csproj.CoreCompileInputs.cache
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie Game.exe
+C:\Users\JackyLegs\Desktop\Zombie Game\obj\Debug\Zombie Game.pdb
